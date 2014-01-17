@@ -31,7 +31,7 @@ window.cancelRequestAnimFrame = (function(){
 
 var target = new Vector(750, 70); 
 var hits=0;
-var seconds = 10;
+var seconds = 60;
 var backgroundSound = new Audio("../audio/background.mp3");
 var bang = new Audio("../audio/bang.mp3");
 var fail = new Audio("../audio/fail.mp3");
