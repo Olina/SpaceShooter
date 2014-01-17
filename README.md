@@ -3,7 +3,7 @@ Installera spelet:
 Installera spelet genom att clona ner det till din dator via:
 git clone git://github.com/Olina/SpaceShooter.git
 i src/header.php finns raden $site = "/~lijc13/SpaceShooter-master/"; 
-denna skall ändras till din egen.
+denna skall ändras till din egen sökväg.
 
 Spela spelet:
 
