@@ -5,7 +5,7 @@
   Om du råkar köra på astroiden så kommer dina aktuella poäng att gå förlorade.</p>
   <center>
     <h1>Tid kvar:</h1>
-<div id="timer">10</div></center>
+<div id="timer">60</div></center>
 <h2 id="Message"></h2>
 <a  id="newGame" href='index.php'>Nytt spel?</a>
 <canvas id='canvas1' width='800' height='300' style="width:100%; height:100%;">
