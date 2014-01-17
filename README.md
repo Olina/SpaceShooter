@@ -12,5 +12,6 @@ När tiden är slut kan du välja att spela det igen genom att trycka på en lä
 
 Övrigt:
 
-I spelet finns ljudeffteker som du själv kan byta ut mot egna ljud, detsamma gäller bakgrundsbilden star.jpg och själva asteroiden rock.jpg.
+I spelet finns ljudeffteker som du själv kan byta ut mot egna ljud, detsamma gäller bakgrundsbilden star.jpg och själva asteroiden rock.jpg, du hittar dessa filer i mappen img.
+
 Ljudfilerna ligger i mappen audio och innehåller background.mp3 som körs genom hela spelet, fail.mp3 som körs när du råkar köra in i en asteroid, bang.mp3 som körs om du lyckas skjuta en asteroid och laser.mp3 som spelas när man skjuter skott.
