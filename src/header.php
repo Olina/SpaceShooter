@@ -1,3 +1,7 @@
+<?php 
+$site = "http://www.student.bth.se/~lijc13/SpaceShooter/"; 
+?> 
+
 <!doctype html> 
 <html lang='en' class='no-js'> 
 <head> 
