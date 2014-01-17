@@ -2,7 +2,7 @@ Installera spelet:
 
 Installera spelet genom att clona ner det till din dator via:
 git clone git://github.com/Olina/SpaceShooter.git
-i src/header.ph finns raden $site = "http://www.student.bth.se/~lijc13/SpaceShooter-master/"; 
+i src/header.ph finns raden $site = "www.student.bth.se/~lijc13/SpaceShooter-master/"; 
 denna skall ändras till din egen.
 
 Spela spelet:
