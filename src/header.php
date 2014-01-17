@@ -1,5 +1,5 @@
 <?php 
-$site = "http://www.student.bth.se/~lijc13/SpaceShooter/"; 
+$site = "http://www.student.bth.se/~lijc13/SpaceShooter-master/"; 
 ?> 
 
 <!doctype html> 
